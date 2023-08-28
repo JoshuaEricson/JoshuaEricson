@@ -22,7 +22,7 @@ title: Joshua Ericson's Variety Blog
 email: contact@joshuaericson.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello all! I am a 20 year old Interpreter Training Program Graduate, and am currently studying City and Regional Planning at Cal Poly San Luis Obispo
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "joshuaericson.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: JoshuaEricson
